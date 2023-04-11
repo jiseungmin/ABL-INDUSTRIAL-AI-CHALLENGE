@@ -7,7 +7,9 @@
 - 산업분야 : 불량 검출 능력 개선(금성볼트공업㈜-볼트 제조 불량 이미지 데이터 제공)
 - 문화분야 : 작품 별 고객들의 감성분석(충남정보문화산업진흥원-2020~2021년 네이버 웹툰 댓글 데이터 제공)
 - 의료분야 : 신장병 환자들의 소변검사 데이터 분석 및 환후 예측(㈜리빈에이아이-신장병 환자 소변검사데이터 제공) 
-- 자유주제 : 공공데이터를 활용한 자유주제
+- 자유주제 : 공공데이터를 활용한 자유주제  
+
+
 ![image](https://user-images.githubusercontent.com/98318326/231172275-b28df6b4-4f1b-41ff-9548-4069d5aaa2f8.png). 
 
 ## 팀
@@ -23,4 +25,4 @@
 
 # 결과물
 학습된 모델로 이미지를 Pass/Bad로 분류하였고 .txt파일을 생성하여 모델에 분류된 이미지의 결과들을 기록하게 하였음.
-<img width="792" alt="image" src="https://user-images.githubusercontent.com/98318326/231178966-2642911d-7018-46ba-bc64-425238df6cd2.png">
+<img width="792" alt="image" src="https://user-images.githubusercontent.com/98318326/231179502-c3a58d84-77b2-4792-a723-0f42ae0e2305.png">
