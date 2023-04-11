@@ -1,0 +1,4 @@
+python train.py --img 640 --batch 4 --epochs 512 --data data.yaml --weights yolov5s.pt
+python detect.py --weights ./runs/train/exp8/weights/best.pt --img 640 --conf 0.5 --source ../Assets/original_bolt_ko_to_en(_22.11.28)/rivet_out_L/rivet_out_L_0.jpg
+
+cd Documents/Workspace/CN_AI_compe/yolov5
