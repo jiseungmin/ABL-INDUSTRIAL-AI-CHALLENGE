@@ -10,18 +10,17 @@
 - 자유주제 : 공공데이터를 활용한 자유주제
 ![image](https://user-images.githubusercontent.com/98318326/231172275-b28df6b4-4f1b-41ff-9548-4069d5aaa2f8.png). 
 
-# 팀
-## 팀이름 D&S로 산업분야에 출전하여 우수상을 수상하였음.
-|이름|역할|
-|------|---|
-|성주용|팀장,널링부분 이미지 전처리 및 이미지분류 모델 개발|
-|지승민|리벳부분 이미지 전처리 및 이미지분류 모델 개발|
+## 팀
+산업분야에 출전하여 우수상을 수상하였음.
+[팀]|이름|역할|
+|------|---|---|
+|D&S팀장|성주용|널링부분 이미지 전처리 및 이미지분류 모델 개발|
+|D&S팀원|지승민|리벳부분 이미지 전처리 및 이미지분류 모델 개발|
 
 # 프로젝트  
 <img width="1099" alt="스크린샷 2023-04-11 오후 10 05 09" src="https://user-images.githubusercontent.com/98318326/231172748-de7adf66-1be1-4c0f-bbc3-60646e7bdc5a.png">  
 자세한 과정은 PPT_Files/충남ai대회ppt v-0.5.pptx을 참고
 
 # 결과물
-학습된 모델로 이미지를 Pass/Bad로 분류하였고 .txt 평가된 이미지 결과들을 기록하게 하였음.
-<img width="339" alt="image" src="https://user-images.githubusercontent.com/98318326/231173494-fb76d69c-dcb5-43f4-8cf5-d44af1dc1cda.png">
-
+학습된 모델로 이미지를 Pass/Bad로 분류하였고 .txt파일을 생성하여 모델에 분류된 이미지의 결과들을 기록하게 하였음.
+<img width="792" alt="image" src="https://user-images.githubusercontent.com/98318326/231178966-2642911d-7018-46ba-bc64-425238df6cd2.png">
