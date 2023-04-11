@@ -29,4 +29,6 @@
 
 # 결과물
 학습된 모델로 이미지를 Pass/Bad로 분류하였고 .txt파일을 생성하여 모델에 분류된 이미지의 결과들을 기록하게 하였음.  
+  
+  
 <img width="792" alt="image" src="https://user-images.githubusercontent.com/98318326/231179806-bbfdd039-c1ba-4da8-a1d4-fea19b011c4e.png">
