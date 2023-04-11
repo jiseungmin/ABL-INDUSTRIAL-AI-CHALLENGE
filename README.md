@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/98318326/231172275-b28df6b4-4f1b-41ff-9548-4069d5aaa2f8.png). 
 
 ## 팀
-산업분야에 출전하여 우수상을 수상하였음.
+산업분야에 출전하여 우수상(시장상)을 수상하였음.
 [팀]|이름|역할|
 |------|---|---|
 |D&S팀장|성주용|널링부분 이미지 전처리 및 이미지분류 모델 개발|
@@ -25,4 +25,4 @@
 
 # 결과물
 학습된 모델로 이미지를 Pass/Bad로 분류하였고 .txt파일을 생성하여 모델에 분류된 이미지의 결과들을 기록하게 하였음.
-<img width="792" alt="image" src="https://user-images.githubusercontent.com/98318326/231179502-c3a58d84-77b2-4792-a723-0f42ae0e2305.png">
+<img width="792" alt="image" src="https://user-images.githubusercontent.com/98318326/231179806-bbfdd039-c1ba-4da8-a1d4-fea19b011c4e.png">
